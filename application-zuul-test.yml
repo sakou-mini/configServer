@@ -8,4 +8,3 @@ zuul:
       myUser.serviceId: SERVICE-PROVIDER
       myUser.path: /myUser/**       #代表了path对应的路径匹配此服务
   ignored-services: "*"
-  prefix: "/provider"   #这是所有路径的前缀
